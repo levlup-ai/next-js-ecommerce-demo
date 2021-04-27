@@ -4,6 +4,7 @@ import { IProduct } from "../components/Product"
 import Footer from "../components/Footer"
 import Head from "next/head"
 
+
 interface IIndexProps {
     products: IProduct[]
 }
